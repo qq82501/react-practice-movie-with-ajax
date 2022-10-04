@@ -1,1 +1,1 @@
-# React Practice: list of movie ( AJAX with Firebase)
+# React Practice: list of movie (AJAX with Firebase)
